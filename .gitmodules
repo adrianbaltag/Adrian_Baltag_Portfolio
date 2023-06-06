@@ -1,0 +1,9 @@
+[submodule "High-Paw"]
+	path = High-Paw
+	url = https://github.com/Paw-Patrol-1/High_Paw.git
+[submodule "J.A.B"]
+	path = J.A.B
+	url = https://github.com/Akatsuki-Clan/blog.git
+[submodule "Youtube_Downloader"]
+	path = Youtube_Downloader
+	url = https://github.com/adrianbaltag/YouTube_Downloader.git
